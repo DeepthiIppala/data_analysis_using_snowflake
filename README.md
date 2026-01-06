@@ -41,7 +41,7 @@ Data was collected using the **Bright Data platform** the same approach can be a
 8. Build dashboards and visual insights  
 
 ---
-### **Steps**
+### Steps
 
 ### **Step 1 – Data Ingestion & Flattening**
 - Scrape data using Bright Data  
