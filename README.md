@@ -1,3 +1,5 @@
+# SQL Data Analytics Project  
+
 ## Project Overview
 
 The goal of the project is to **analyze property listing data** and answer common **real-world business questions** related to the **real estate market in Poland**.
